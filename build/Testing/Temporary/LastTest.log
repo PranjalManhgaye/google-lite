@@ -1,0 +1,19 @@
+Start testing: Mar 26 18:29 IST
+----------------------------------------------------------
+1/1 Testing: engine_tests
+1/1 Test: engine_tests
+Command: "/home/pranjal-manhgaye/codes/google-lite/build/engine_tests"
+Directory: /home/pranjal-manhgaye/codes/google-lite/build
+"engine_tests" start time: Mar 26 18:29 IST
+Output:
+----------------------------------------------------------
+All tests passed.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"engine_tests" end time: Mar 26 18:29 IST
+"engine_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 26 18:29 IST

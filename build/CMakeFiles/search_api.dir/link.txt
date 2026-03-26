@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/search_api.dir/src/app/search_api_main.cpp.o -o search_api  libsearch_engine.a 

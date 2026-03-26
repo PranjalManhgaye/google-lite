@@ -1,0 +1,13 @@
+body { font-family: Arial, sans-serif; background: #111; color: #eee; margin: 0; }
+.container { max-width: 900px; margin: 40px auto; padding: 0 16px; }
+h1 { text-align: center; font-size: 42px; margin-bottom: 20px; }
+.searchbar { display: flex; gap: 8px; }
+input { flex: 1; padding: 12px; border-radius: 24px; border: 1px solid #333; background: #1a1a1a; color: #eee; }
+button { padding: 12px 18px; border: 0; border-radius: 20px; background: #2d7ef7; color: white; cursor: pointer; }
+#meta { margin: 12px 0; color: #aaa; font-size: 13px; }
+#suggestions { list-style: none; padding: 0; margin: 8px 0 16px; display: flex; gap: 8px; flex-wrap: wrap; }
+#suggestions li { background: #1f1f1f; padding: 6px 10px; border-radius: 14px; cursor: pointer; }
+.card { border-top: 1px solid #262626; padding: 14px 0; }
+.url { color: #8ab4f8; font-size: 12px; }
+.title { color: #8ab4f8; font-size: 20px; margin: 4px 0; }
+.snippet { color: #ccc; white-space: pre-wrap; }

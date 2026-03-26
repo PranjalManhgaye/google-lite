@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/bench_engine.dir/bench/bench_main.cpp.o -o bench_engine  libsearch_engine.a 
