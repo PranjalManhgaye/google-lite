@@ -1,0 +1,23 @@
+# Build artifacts
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.a
+*.so
+
+# Runtime/generated data
+data/store/
+data/test_store/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
